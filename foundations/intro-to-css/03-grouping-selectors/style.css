@@ -1,0 +1,13 @@
+.normal,.odd {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.normal {
+    background-color: black;
+    color: white;
+}
+
+.odd {
+    background-color: yellow;
+}
