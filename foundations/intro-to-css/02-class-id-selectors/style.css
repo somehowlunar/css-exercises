@@ -1,0 +1,21 @@
+.one, .three,.five {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+
+}
